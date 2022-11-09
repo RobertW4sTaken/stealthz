@@ -7,7 +7,7 @@
 <h3>Access the world wide web</h3>
  
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
-<a href="https://github.com/IDontCodee/Incognito/issues/" alt="GitHub issues"><img src="https://img.shields.io/github/issues/IDontCodee/Incognito?style=for-the-badge"></a>
+<a href="https://github.com/IDontCode/Incognito/issues/" alt="GitHub issues"><img src="https://img.shields.io/github/issues/IDontCodee/Incognito?style=for-the-badge"></a>
 <a href="https://github.com/IDontCodee/Incognito/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/IDontCodee/Incognito?style=for-the-badge"></a>
 
 </div>
@@ -22,9 +22,7 @@
 <a href="https://railway.app/new/template?template=https://github.com/IDontCodee/Incognito"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
 
-## Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
 ## Overview
 
@@ -55,7 +53,6 @@ This repo is for people that want a easy way to deploy Incognito to cloud hostin
 
 **My question is not answered**
 
-Because we can't answer every question here, you may want to check the [wiki](https://github.com/IDontCodee/Incognito/wiki). If you still have questions, you might want to join our Discord [#discord-server](#discord-server)
 
 ## Credits
 
